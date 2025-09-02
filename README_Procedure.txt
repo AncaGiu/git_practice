@@ -1,4 +1,5 @@
 Curs GIT Naveen Automation lab
+
 GIT PUSH
 1. in command line:
 -cd path_to_project/project_name
